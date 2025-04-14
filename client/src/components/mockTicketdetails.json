@@ -1,0 +1,170 @@
+[
+    {
+      "flightName": "Air India AI-101",
+      "departureTime": "10:00 AM",
+      "arrivalTime": "2:00 PM",
+      "duration": "4h",
+      "ticketType": "Economy",
+      "price": "5000 INR"
+    },
+    {
+      "flightName": "IndiGo 6E-203",
+      "departureTime": "7:30 AM",
+      "arrivalTime": "10:30 AM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "4500 INR"
+    },
+    {
+      "flightName": "Vistara UK-705",
+      "departureTime": "1:15 PM",
+      "arrivalTime": "4:15 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "5200 INR"
+    },
+    {
+      "flightName": "SpiceJet SG-817",
+      "departureTime": "6:00 PM",
+      "arrivalTime": "10:00 PM",
+      "duration": "4h",
+      "ticketType": "Economy",
+      "price": "4800 INR"
+    },
+    {
+      "flightName": "Go First G8-409",
+      "departureTime": "9:45 AM",
+      "arrivalTime": "1:15 PM",
+      "duration": "3h 30m",
+      "ticketType": "Economy",
+      "price": "4700 INR"
+    },
+    {
+      "flightName": "AirAsia I5-333",
+      "departureTime": "5:30 AM",
+      "arrivalTime": "8:45 AM",
+      "duration": "3h 15m",
+      "ticketType": "Economy",
+      "price": "4400 INR"
+    },
+    {
+      "flightName": "IndiGo 6E-454",
+      "departureTime": "11:00 AM",
+      "arrivalTime": "2:30 PM",
+      "duration": "3h 30m",
+      "ticketType": "Economy",
+      "price": "4600 INR"
+    },
+    {
+      "flightName": "Vistara UK-502",
+      "departureTime": "8:00 AM",
+      "arrivalTime": "11:00 AM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "5100 INR"
+    },
+    {
+      "flightName": "Air India AI-223",
+      "departureTime": "3:45 PM",
+      "arrivalTime": "7:45 PM",
+      "duration": "4h",
+      "ticketType": "Economy",
+      "price": "4950 INR"
+    },
+    {
+      "flightName": "SpiceJet SG-512",
+      "departureTime": "2:30 PM",
+      "arrivalTime": "5:30 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "4700 INR"
+    },
+    {
+      "flightName": "Go First G8-710",
+      "departureTime": "6:45 AM",
+      "arrivalTime": "10:00 AM",
+      "duration": "3h 15m",
+      "ticketType": "Economy",
+      "price": "4550 INR"
+    },
+    {
+      "flightName": "AirAsia I5-118",
+      "departureTime": "12:00 PM",
+      "arrivalTime": "3:15 PM",
+      "duration": "3h 15m",
+      "ticketType": "Economy",
+      "price": "4300 INR"
+    },
+    {
+      "flightName": "IndiGo 6E-999",
+      "departureTime": "4:00 PM",
+      "arrivalTime": "7:30 PM",
+      "duration": "3h 30m",
+      "ticketType": "Economy",
+      "price": "4650 INR"
+    },
+    {
+      "flightName": "Vistara UK-801",
+      "departureTime": "9:30 AM",
+      "arrivalTime": "12:30 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "5250 INR"
+    },
+    {
+      "flightName": "Air India AI-318",
+      "departureTime": "7:15 AM",
+      "arrivalTime": "11:15 AM",
+      "duration": "4h",
+      "ticketType": "Economy",
+      "price": "4900 INR"
+    },
+    {
+      "flightName": "SpiceJet SG-900",
+      "departureTime": "1:00 PM",
+      "arrivalTime": "4:00 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "4750 INR"
+    },
+    {
+      "flightName": "Go First G8-555",
+      "departureTime": "5:00 PM",
+      "arrivalTime": "8:00 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "4600 INR"
+    },
+    {
+      "flightName": "AirAsia I5-667",
+      "departureTime": "6:30 AM",
+      "arrivalTime": "9:30 AM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "4450 INR"
+    },
+    {
+      "flightName": "IndiGo 6E-777",
+      "departureTime": "10:30 AM",
+      "arrivalTime": "2:00 PM",
+      "duration": "3h 30m",
+      "ticketType": "Economy",
+      "price": "4800 INR"
+    },
+    {
+      "flightName": "Vistara UK-911",
+      "departureTime": "8:45 PM",
+      "arrivalTime": "11:45 PM",
+      "duration": "3h",
+      "ticketType": "Economy",
+      "price": "5300 INR"
+    },{
+        "flightName": "Air India Express IX-212",
+        "departureTime": "11:20 PM",
+        "arrivalTime": "3:20 AM",
+        "duration": "4h",
+        "ticketType": "Economy",
+        "price": "4900 INR"
+    }
+  ]
+  
